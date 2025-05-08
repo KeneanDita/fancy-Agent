@@ -49,4 +49,4 @@ agent #example
 
 
 ##### Contributors
-- [**keanean Dita**](https://github.com/KeneanDita/KeneanDita)
+- [**Kenean Dita**](https://github.com/KeneanDita/)
