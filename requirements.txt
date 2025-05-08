@@ -1,2 +1,2 @@
 rich
-google
+google-genai
