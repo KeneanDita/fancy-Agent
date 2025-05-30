@@ -1,4 +1,3 @@
-
 ### Fancy Agent
 
 Fancy-Agent is a command-line interface (CLI) tool designed to assist with code generation, syntax highlighting, and interactively prompting users to execute commands.
